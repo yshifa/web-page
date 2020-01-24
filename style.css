@@ -39,6 +39,7 @@ h3{
 .box-1 input{
     text-align: center;
     color: goldenrod;
+    background-color: darkgreen;
 }
 
 .box-2{
@@ -46,7 +47,9 @@ h3{
     height: 300px;
     padding: 20px; 
     text-align: center;
-    background:olivedrab; 
+    background:olive; 
     float: right;
+    margin: 0px 10px;
+    
 }
 
